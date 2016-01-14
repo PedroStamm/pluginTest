@@ -2,5 +2,3 @@ Manifest-Version: 1.0
 Command: pluginTest
 ArthurPlug: org.powertrip.excalibot.common.plugins.pluginTest.Server
 KnightPlug: org.powertrip.excalibot.common.plugins.pluginTest.Bot
-
-
